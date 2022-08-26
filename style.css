@@ -1,0 +1,11 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana; text-align: center;font-size:120%}
+.maindiv {
+  background-color:white;
+  font-family:arial;
+  color:black;
+  width:300px;
+  padding:20px;
+  border-radius: 25px;
+  margin:0 auto;
+}
